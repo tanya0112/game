@@ -1,0 +1,158 @@
+#chat1
+{
+     position: absolute;
+    left: 75%;
+    top: 5%;
+    height: 20%;
+}
+  
+
+
+#chat22
+{
+    position: absolute;
+    top: 15%;
+    left: 25%;
+    height: 20%;
+}
+ 
+
+
+#sp1
+{ 
+  text-align:center;
+  font-size:100%;
+  font-family: cursive;
+  color: #0e1b7b;
+  position: absolute;
+   text-shadow: 0 0 black;
+   box-shadow: 0 0 black;
+   top: 25%;
+   left: 35%;
+}
+#sp2
+{
+  text-align:center;
+  font-size:200%;
+  font-family: cursive;
+  color: #0e1b7b;
+  position: absolute;
+    text-shadow: 0 0 black;
+    box-shadow: 0 0 black;
+    top: 40%;
+  
+}
+
+#hero
+{
+    position: absolute;
+    height: 70%;
+    left: 80%;
+}
+ 
+#tool
+{
+  position:absolute;
+      height: 30%;
+    left: 70%;
+    top: 15%;
+}
+#vil
+{
+  position:absolute;
+      height: 70%;
+    top: 30%;
+    left: 14%;
+}
+#b1
+{
+    background-color:#0e1b7b;
+
+    color: #ffffff;
+    font-size: 80%;
+    width: 15%;
+    height: 10%;
+    border-radius:30%;
+    font-family:cursive;
+    position: absolute;
+    top: 60%;
+    left: 43%;
+}
+#b2
+{
+    background-color:#0e1b7b;
+
+    color: #ffffff;
+    font-size: 80%;
+    width: 15%;
+    height: 10%;
+    border-radius:30%;
+    font-family:cursive;
+    position: absolute;
+    top: 70%;
+    left: 43%;
+}
+
+#b3
+{
+    background-color:#0e1b7b;
+
+    color: #ffffff;
+    font-size: 80%;
+    width: 15%;
+    height: 10%;
+    border-radius:30%;
+    font-family:cursive;
+    position: absolute;
+    top: 80%;
+    left: 43%;
+}
+
+@media all and (min-width:400px) and (max-width:700px)
+{
+#sp1 {
+    text-align: center;
+    font-size: 70%;
+    font-family: cursive;
+    color: #0e1b7b;
+    position: absolute;
+    text-shadow: 0 0 black;
+    box-shadow: 0 0 black;
+    top: 25%;
+    left: 35%;
+}
+#vil {
+    position: absolute;
+    height: 50%;
+    top: 30%;
+    left: 8%;
+}
+#chat22 {
+    position: absolute;
+    top: 16%;
+    left: 20%;
+    height: 15%;
+}
+#sp1 {
+    text-align: center;
+    font-size: 60%;
+    font-family: cursive;
+    color: #0e1b7b;
+    position: absolute;
+    text-shadow: 0 0 black;
+    box-shadow: 0 0 black;
+    top: 25%;
+    left: 29%;
+}
+#chat1 {
+    position: absolute;
+    left: 70%;
+    top: 5%;
+    height: 15%;
+}
+#hero {
+    position: absolute;
+    height: 65%;
+    left: 79%;
+}
+}
